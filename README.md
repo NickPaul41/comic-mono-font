@@ -45,3 +45,10 @@ The contents of this package is also [published to npm](https://www.npmjs.com/pa
 
 ## License
 It is licensed under the [MIT License](LICENSE).
+
+
+## Changes
+Patched with nerd-fonts-patcher to include extra glyphs from [Nerd Fonts]
+wget https://github.com/ryanoasis/nerd-fonts/releases/latest/download/FontPatcher.zip
+python ./nerd-font/font-patcher ./ComicMono.ttf -c -s
+python ./nerd-font/font-patcher ./ComicMono-Bold.ttf -c -s
