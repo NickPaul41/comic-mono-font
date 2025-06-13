@@ -30,6 +30,11 @@ I have no font creation skills; I’m just a software developer. This font famil
 {% include_relative generate.py %}
 ```
 
+## Check out these fonts as well
+- The original [Comic Shanns](https://github.com/shannpersand/comic-shanns) by [Shannon Miwa](https://github.com/shannpersand) has V2 released with support for accented characters and other symbols, such as math symbols.
+- Check out [Serious Shanns](https://github.com/kaBeech/serious-shanns) by [Kyle Beechly](https://github.com/kaBeech), which has more modifications to further enhance the legibility, lighter weight, and Nerd Font version.
+- Check out [Comic Shanns Mono](https://github.com/jesusmgg/comic-shanns-mono) by [Jesus Gonzalez](https://github.com/jesusmgg), which is based on Comic Shanns v2 but with metrics adjusted and with more additional characters.
+
 ## CDN
 You can use this font in your web pages by including the stylesheet. CDN is provided by [jsDelivr](https://www.jsdelivr.com/package/npm/comic-mono).
 ```html
@@ -42,6 +47,7 @@ The contents of this package is also [published to npm](https://www.npmjs.com/pa
 ## Packages published by third parties
 - Fontsource: [@fontsource/comic-mono](https://www.npmjs.com/package/@fontsource/comic-mono) ([thanks @DecliningLotus](https://github.com/fontsource/fontsource/pull/117))
 - Arch Linux AUR: [ttf-comic-mono-git](https://aur.archlinux.org/packages/ttf-comic-mono-git/) (maintained by DBourgeoisat)
+- Gentoo LInux Overlay: [comic-mono-font](https://gpo.zugaina.org/Overlays/arrans-overlay/media-fonts/comic-mono-font)
 
 ## License
 It is licensed under the [MIT License](LICENSE).
